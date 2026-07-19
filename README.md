@@ -1,4 +1,9 @@
 # 👋 Hi, I'm Ganga Gupta
+<h1 align="center">👋 Hi, I'm Ganga Gupta</h1>
+
+<p align="center">
+  <img src="YOUR_GIF_LINK" width="700"/>
+</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=22D3EE&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub!;Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Python+Developer;Always+Learning+Something+New+🚀" />
