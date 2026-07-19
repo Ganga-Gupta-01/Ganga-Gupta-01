@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Ganga Gupta
 
+<p align="center">
+  <img src="assets/Readme_image.png" alt="Ganga Gupta" width="300" style="border-radius: 50%;" />
+</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=22D3EE&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub!;Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Python+Developer;Always+Learning+Something+New+🚀" />
