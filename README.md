@@ -1,11 +1,5 @@
 # 👋 Hi, I'm Ganga Gupta
 
-<p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2l5ZzJhdDh2eWJ2dWhpY3V2a3h2bDF2bDdlbWhjY3BkMjN6dXl4dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l41YtZOb9EUABnuqA/giphy.gif" width="700"/>
-</p>
-<p align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="700"/>
-</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=22D3EE&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub!;Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Python+Developer;Always+Learning+Something+New+🚀" />
