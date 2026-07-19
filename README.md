@@ -4,9 +4,6 @@
   <img src="assets/Readme_image.png" alt="Ganga Gupta Banner" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=22D3EE&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub!;Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Python+Developer;Always+Learning+Something+New+🚀" alt="Typing SVG" />
-</p>
 
 <h2 align="center">🌍 Let's Connect</h2>
 
