@@ -34,7 +34,7 @@
 ## 💻 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,git,github,vscode,anaconda"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,streamlit,scikit-learn,numpy,pandas,matplotlib,seaborn,git,github,vscode,anaconda"/>
 </p>
 
 **Libraries**
