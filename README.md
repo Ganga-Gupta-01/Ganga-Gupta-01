@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Ganga Gupta
-<h1 align="center">👋 Hi, I'm Ganga Gupta</h1>
 
 <p align="center">
-  <img src="YOUR_GIF_LINK" width="700"/>
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="700">
 </p>
 
 <p align="center">
