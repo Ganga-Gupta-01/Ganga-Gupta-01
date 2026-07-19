@@ -1,7 +1,10 @@
 # 👋 Hi, I'm Ganga Gupta
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="700">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2l5ZzJhdDh2eWJ2dWhpY3V2a3h2bDF2bDdlbWhjY3BkMjN6dXl4dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l41YtZOb9EUABnuqA/giphy.gif" width="700"/>
+</p>
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="700"/>
 </p>
 
 <p align="center">
